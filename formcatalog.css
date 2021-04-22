@@ -4,15 +4,15 @@
      .nga-querySelectRow {   	
      		background-color:#4B8EC1 !important;
 		padding:5px !important;
-		border:2px solid #046380 !important;
+		border:2px solid #0C3F78 !important;
      }
 
      .nga-querySubmitRow {
      		background-color:#4B8EC1 !important;
 		padding:5px !important;
-		border-left:2px solid #046380 !important;
-		border-right:2px solid #046380 !important;
-		border-bottom:2px solid #046380 !important;
+		border-left:2px solid #0C3F78 !important;
+		border-right:2px solid #0C3F78 !important;
+		border-bottom:2px solid #0C3F78 !important;
      }
 
      .nga-queryRow {
@@ -20,21 +20,21 @@
 		padding-left:5px !important;
 		padding-top:5px !important;
 		padding-right:5px !important;
-		border-left:2px solid #046380 !important;
-		border-right:2px solid #046380 !important;
-		border-bottom:2px solid #046380 !important;
+		border-left:2px solid #0C3F78 !important;
+		border-right:2px solid #0C3F78 !important;
+		border-bottom:2px solid #0C3F78 !important;
      }
 
      .nga-queryValueCell {
      		background-color:#FFFFFF !important;
-		border-left:1px solid #046380;
-		border-top:1px solid #046380;
+		border-left:1px solid #0C3F78;
+		border-top:1px solid #0C3F78;
      }
      
      .nga-queryValueCellInput {
      		background-color:#FFF168 !important;
-		border-left:1px solid #046380;
-		border-top:1px solid #046380;
+		border-left:1px solid #0C3F78;
+		border-top:1px solid #0C3F78;
                 font-weight: bold !important;
 		color: #183152 !important;
 		font-style: normal !important;
